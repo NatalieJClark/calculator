@@ -27,6 +27,7 @@ function calc(num1, num2) {
         return ans;
     }
     else if (operator === "x"
+            || operator === "*"
             || operator === "times"
             || operator === "multiply"
             || operator === "multiplied by") {
