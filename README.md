@@ -1,6 +1,6 @@
-# **Calculator**
+# **CALCULATOR**
 
-This was my homework for session 5 of my Code First Girls - Intro To Web Dev course
+This was my homework for session 5 of my **Code First Girls - Intro To Web Dev** course
 
 ## HOMEWORK TASK
 - Build a Calculator 
@@ -13,6 +13,6 @@ This was my homework for session 5 of my Code First Girls - Intro To Web Dev cou
   - Square Root
   
 ## EXTENDED LEARNING TASK
-- Calculator with user input
-- Use prompt() to get user information to do the calculations
-- Use alert() to display the result
+- Build a calculator with user input
+  - Use prompt() to get user information to do the calculations
+  - Use alert() to display the result
