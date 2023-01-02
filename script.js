@@ -1,6 +1,6 @@
 //Gather user data
-var x = prompt ("Type first number");
-var operator = prompt ("Type operator");
+var x = prompt ("Type first number (Leave blank for square root)");
+var operator = prompt ("Type operator (+, -, /, x, power, √");
 operator = operator.toLowerCase();
 var y = prompt ("Type second number");
 
