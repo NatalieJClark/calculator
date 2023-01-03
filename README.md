@@ -2,7 +2,7 @@
 
 This was my homework for session 5 of my **Code First Girls - Intro To Web Dev** course
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">  View live site](https://nataliejclark.github.io/FirstWebsite/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">  View live site](https://nataliejclark.github.io/calculator/)
 
 ## HOMEWORK TASK
 - Build a Calculator 
